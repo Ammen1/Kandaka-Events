@@ -19,7 +19,7 @@ const pastWorks = [
   },
 ];
 
-const PastWorkSection = () => {
+const Products = () => {
   return (
     <div className="text-white p-8">
       <div className="max-w-7xl mx-auto">
@@ -38,4 +38,4 @@ const PastWorkSection = () => {
   );
 };
 
-export default PastWorkSection;
+export default Products;
