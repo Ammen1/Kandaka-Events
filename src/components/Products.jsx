@@ -13,10 +13,7 @@ const pastWorks = [
     image: 'africa.png',
     description: 'African Unions 60th Anniversary Celebration, a grand commemoration that highlighted cultural heritage and unity. Collaborating with esteemed partners such as the Ethiopian Skylight Hotel and Arts TV, we attracted distinguished guests, leaders, and influencers from around the world',
   },
-  {
-    image: 'entoto.png',
-    description: 'Green Gold Coffee Opening Ceremony, at skylight international hotel',
-  },
+ 
 ];
 
 const Products = () => {
