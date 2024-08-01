@@ -9,7 +9,7 @@ const FounderProfile = () => {
         <h1 className="text-4xl font-extrabold mb-8 text-center">Founder Profile</h1>
 
         <div className="flex flex-col md:flex-row items-center mb-16">
-          <img src="photo.jpg" alt="Bruktawit Samuel" className="rounded-full shadow-lg w-full h-72 mb-4 md:mb-0 md:mr-8" />
+          {/* <img src="photo.jpg" alt="Bruktawit Samuel" className="rounded-full shadow-lg w-full h-72 mb-4 md:mb-0 md:mr-8" /> */}
           <div>
             <h2 className="text-3xl font-bold mb-4">Bruktawit Samuel</h2>
             <p className="text-lg mb-4">
